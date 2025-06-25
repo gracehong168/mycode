@@ -34,4 +34,3 @@ jobs:
           custom-arguments: '-q'
           click-to-expand: true
           report-title: 'Test Report'
--- VISUAL BLOCK --   
